@@ -15,8 +15,8 @@ This repository hosts the **open dataset and documentation from ATNi’s 2025 Ea
 | Filename | Description |
 |----------|-------------|
 | `20250627_KenyaOpenDataset.xlsx` | The main open dataset with company scores and product health data |
-| `(Will be Updated` | Full report summarizing findings, insights, and recommendations |
-| `(Will be Updated)` | Methodology and scoring framework used in the assessment |
+| `(To be Updated)` | Full report summarizing findings, insights, and recommendations |
+| `(To be Updated)` | Methodology and scoring framework used in the assessment |
 
 ---
 
