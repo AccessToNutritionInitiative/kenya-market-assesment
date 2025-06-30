@@ -1,1 +1,1 @@
-# kenya-product-profile
+# kenya-market-assesment
