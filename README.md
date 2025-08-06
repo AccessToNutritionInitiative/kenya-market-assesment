@@ -14,8 +14,8 @@ This repository hosts the **open dataset and documentation from ATNi’s 2025 Ea
 
 | Filename | Description |
 |----------|-------------|
-| `20250630_EAMA_Kenya_Methodology_FINAL (1).pdf` | The main open dataset with company scores and product health data |
-| `20250702_ATNi_EAMA_Kenya_Full_Report_FINAL_v4.pdf` | Full report summarizing findings, insights, and recommendations |
+| `20250627_KenyaOpenDataset.xlsx` | The main open dataset with company scores and product health data |
+| `20250709_ATNi_EAMA_Kenya_Full_Report_v5.pdf` | Full report summarizing findings, insights, and recommendations |
 | `20250702_EAMA_Kenya_Methodology_v1.1_FINAL.pdf` | Methodology and scoring framework used in the assessment |
 
 ---
@@ -27,7 +27,7 @@ This repository hosts the **open dataset and documentation from ATNi’s 2025 Ea
 - Product-level healthiness scores  
 - Definitions and notes (see first sheet)
 
-### 📘 ` 20250702_ATNi_EAMA_Kenya_Full_Report_FINAL_v4.pdf`  
+### 📘 `20250709_ATNi_EAMA_Kenya_Full_Report_v5.pdf`  
 - Full summary of results  
 - Context, findings, and recommendations  
 - Background and objectives of the initiative
